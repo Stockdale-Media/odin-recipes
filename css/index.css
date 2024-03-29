@@ -2,4 +2,20 @@
   font-style: italic;
   text-decoration: underline;
   color: green;
+  /* Added a max-width of 140px, border of 1px solid black, padding of 1px, and outline of 0.5px solid blue, and a background-color of lightgrey */
+  max-width: 140px;
+  border: 1px solid black;
+  padding: 1px;
+  outline: 0.5px solid blue;
+  background-color: lightgrey;
+}
+
+/* Gave the link some styling */
+.link {
+  color: red;
+  max-width: 140px;
+  border: 1px solid black;
+  padding: 1px;
+  outline: 0.5px solid lightgreen;
+  background-color: lightcyan;
 }
